@@ -1,6 +1,6 @@
 <div align="center">
 
-# Games, by [Carson Labs](https://github.com/carson1248/games)
+# Games, by [Biscut Labs](https://github.com/carson1248/games)
 ---
 ## Why schools can't block it 
 
@@ -150,7 +150,7 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 
 <div align="center">
 
-Made with ❤️ by Carson Laba
+Made with ❤️ by Biscut Laba
 
 </div>
 
