@@ -1,4 +1,4 @@
-# Games, by [Biscut Labs](https://github.com/carson1248/games)
+# Games, by [Biscut Labs](https://github.com/carson1248/)
 ---
 ## Why schools can't block it 
 
